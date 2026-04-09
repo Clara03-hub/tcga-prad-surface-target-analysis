@@ -1,0 +1,14 @@
+# project dependencies
+numpy==2.2.3
+pandas==2.2.3
+scipy==1.15.2
+statsmodels==0.14.4
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# jupyter
+notebook==7.3.3
+ipykernel==6.29.5
+
+# might not need this anymore
+urllib3==2.3.0
